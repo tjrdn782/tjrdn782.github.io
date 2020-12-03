@@ -1,0 +1,36 @@
+<!doctype html> <!--20201203(2).html -->
+<html><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-sacle=1"/>
+<style> [class*="col-"]{float:left; padding:10px;]/* for mobile */
+[class*="col-"] {width:100%;}
+@media only screen and (min-width:768px){ /* For desktop: */
+ .col-1{widht:8.33%;} .col-2{widht:16.66%;} .col-3{widht:25%;} .col-4{widht:33.33%;}
+ .col-5{widht:41.66%;} .col-6{widht:50%;} .col-7{widht:58.33%;} .col-8{widht:66.66%;}
+ .col-9{widht:75%;} .col-10{widht:83.33%;} .col-11{widht:91.66%;} .col-12{widht:100%;}} </style>
+  <script src="https://ajaax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <title>20201203(2)</title></head>
+ <body><header></header><section>
+  <h4> Ex13_2 Scanner 예시 </h4><p> 소스코드 및 결과화면 </p>
+  <picture>
+   <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/62277062/100969144-f4d55700-3575-11eb-80bb-709631028293.PNG"/>
+  <img src="https://user-images.githubusercontent.com/62277062/100969235-23533200-3576-11eb-99cf-f49ef048b900.png" alt="소스코드" style="width:auto;"/>
+  </picture>
+  <h4> Ex13_3 Cage </h4><p> 소스코드 및 결과화면 </p>
+   <picture>
+   <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/62277062/100969150-f6068400-3575-11eb-894d-b5199942992d.PNG"/>
+  <img src="https://user-images.githubusercontent.com/62277062/100969236-23ebc880-3576-11eb-9dbd-96069c33b98e.png" alt="소스코드" style="width:auto;"/>
+  </picture>
+   <h4> Ex13_4 Wolf , Fox  </h4><p> 소스코드 및 결과화면 </p>
+   <picture>
+   <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/62277062/100969152-f69f1a80-3575-11eb-948a-beff7063764a.PNG"/>
+  <img src="https://user-images.githubusercontent.com/62277062/100969232-22ba9b80-3576-11eb-867f-7f34d11e8e4e.png" alt="소스코드" style="width:auto;"/>
+  </picture>
+  <picture>
+   <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/62277062/100969169-fdc62880-3575-11eb-8def-8b43ff0e427c.PNG"/>
+  <img src="https://user-images.githubusercontent.com/62277062/100969229-21896e80-3576-11eb-9926-30be271ccc86.png" alt="소스코드" style="width:auto;"/>
+  </picture>
+  <h4> Ex13_5 배열 예시 </h4><p> 소스코드 및 결과화면 </p>
+   <picture>
+   <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/62277062/100969154-f69f1a80-3575-11eb-870e-8760c57608ff.PNG"/>
+  <img src="https://user-images.githubusercontent.com/62277062/100969230-22ba9b80-3576-11eb-9823-e2bf5b9a3f45.png" alt="소스코드" style="width:auto;"/>
+  </picture>
+  </section></body></html>
